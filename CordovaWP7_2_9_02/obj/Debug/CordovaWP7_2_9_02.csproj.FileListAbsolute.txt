@@ -1,0 +1,17 @@
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\ApplicationIcon.png
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\Background.png
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\CordovaWP7_2_9_02.dll
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\CordovaWP7_2_9_02.pdb
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\AppManifest.xaml
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\CordovaWP7_2_9_02.xap
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\App.g.i.cs
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\MainPage.g.i.cs
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\cordovalib\CordovaView.g.i.cs
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\AudioRecorder.g.i.cs
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\ImageCapture.g.i.cs
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\NotificationBox.g.i.cs
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\VideoRecorder.g.i.cs
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\CordovaWP7_2_9_02.g.resources
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\CordovaWP7_2_9_02.dll
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\CordovaWP7_2_9_02.pdb
+C:\Work\Codex\work_with_oneflow_sdk\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\XapCacheFile.xml
